@@ -1,13 +1,14 @@
-import React from 'react';
 import './App.css';
-import HelloWorldList from './HelloWorldList';
 
-const App = () => {
-  return (
-  <div className="App">
-  <HelloWorldList />
-  </div>
-  );
-};
+const initialFormState = { name: "", description: ""};
+
+function App() {
+	return (
+	<div> 
+        <h1>
+         Hello World </h1>
+	</div>
+	); 
+}
 
 export default App;

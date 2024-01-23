@@ -6,7 +6,7 @@ function App() {
 	return (
 	<div> 
         <h1>
-         Hello World </h1>
+         Hello World Dev Environment </h1>
 	</div>
 	); 
 }
